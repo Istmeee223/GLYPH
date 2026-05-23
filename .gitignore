@@ -1,27 +1,8 @@
-# Gradle
-.gradle/
-build/
-.build/
-
-# Android Studio
-.idea/
+.gradle
+.idea
 *.iml
-*.iws
-*.ipr
-local.properties
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Project
 *.apk
 *.aar
-*.aab
-*.zip
-*.rar
-*.jar
-
-# IDE
-.vscode/
-.fleet/
+build/
+local.properties
+.DS_Store

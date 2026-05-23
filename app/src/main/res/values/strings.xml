@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GLYPH</string>
+    
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_editor">Editor</string>
+    <string name="nav_preview">Preview</string>
+    <string name="nav_music">Music</string>
+    <string name="nav_themes">Themes</string>
+    <string name="nav_settings">Settings</string>
+    
+    <!-- Common -->
+    <string name="loading">Loading...</string>
+    <string name="error">Error</string>
+    <string name="retry">Retry</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    
+    <!-- Dashboard -->
+    <string name="welcome_title">Welcome to GLYPH</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="recent_layouts">Recent Layouts</string>
+    
+    <!-- Editor -->
+    <string name="widget_editor">Widget Editor</string>
+    <string name="add_widget">Add Widget</string>
+    <string name="layout_grid">Layout Grid</string>
+    
+    <!-- Themes -->
+    <string name="theme_monochrome">Monochrome</string>
+    <string name="theme_neon">Neon Edge</string>
+    <string name="theme_minimal">Minimal</string>
+</resources>
